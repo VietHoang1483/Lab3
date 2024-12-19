@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35507.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03-01", "Lab03-01\Lab03-01.csproj", "{A804D19E-EEAD-4647-8347-404E7F52E4B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03-03", "Lab03-03\Lab03-03.csproj", "{6F1DDB87-28A3-47E9-A8DB-35032C7D1F08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03-02", "Lab03-02\Lab03-02.csproj", "{72DAAB38-E2BD-4F6F-BC4B-F6ADC7D58215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A804D19E-EEAD-4647-8347-404E7F52E4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A804D19E-EEAD-4647-8347-404E7F52E4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A804D19E-EEAD-4647-8347-404E7F52E4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A804D19E-EEAD-4647-8347-404E7F52E4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F1DDB87-28A3-47E9-A8DB-35032C7D1F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1DDB87-28A3-47E9-A8DB-35032C7D1F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1DDB87-28A3-47E9-A8DB-35032C7D1F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1DDB87-28A3-47E9-A8DB-35032C7D1F08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72DAAB38-E2BD-4F6F-BC4B-F6ADC7D58215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72DAAB38-E2BD-4F6F-BC4B-F6ADC7D58215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72DAAB38-E2BD-4F6F-BC4B-F6ADC7D58215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72DAAB38-E2BD-4F6F-BC4B-F6ADC7D58215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA5BB884-A562-439A-8469-C243DEE8031A}
+	EndGlobalSection
+EndGlobal

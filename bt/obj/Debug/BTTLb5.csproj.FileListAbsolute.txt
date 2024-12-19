@@ -1,0 +1,10 @@
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\obj\Debug\BTTLb5.csproj.AssemblyReference.cache
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\obj\Debug\BTTLb5.Form1.resources
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\obj\Debug\BTTLb5.Properties.Resources.resources
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\obj\Debug\BTTLb5.csproj.GenerateResource.cache
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\obj\Debug\BTTLb5.csproj.CoreCompileInputs.cache
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\bin\Debug\BTTLb5.exe.config
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\bin\Debug\BTTLb5.exe
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\bin\Debug\BTTLb5.pdb
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\obj\Debug\BTTLb5.exe
+D:\học C#\Lý thuyết_LTMTW\OpenImg\BTTLb5\obj\Debug\BTTLb5.pdb
